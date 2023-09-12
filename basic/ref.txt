@@ -1,0 +1,2 @@
+# Update on reload will trigger to start a updated service worker on reload which is useful in development.
+# Otherwise we need to close all tab  to register updated service worker.
